@@ -1,0 +1,13 @@
+.paragraph1{
+    color: black;
+    text-align: center;
+}
+.paragraph2{
+    color: aquamarine;
+    background-color:pink ;
+    text-align: center;
+}
+#about{
+    background-color:purple;
+    text-align: center;
+}
